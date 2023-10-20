@@ -1,0 +1,79 @@
+body{
+    width: 100%;
+    background-image: linear-gradient( rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    z-index: 1;
+    color: white;
+}
+
+
+/* input::placeholder {
+    color: white !important;
+}*/
+.formulario1{
+    max-width: 25em;
+    padding: 1.3em;
+    margin: auto;
+    background-color: rgba(3, 21, 117);
+    font-weight: bold;
+    border-radius: 0.5em;
+    box-shadow: inset 1px 1px 22px 4px rgba(0,0,0,0.85);
+}
+
+
+.inicio{
+    height: 90vh;
+}
+.contenedor1{
+    height: 80vh;
+    background-color: white;
+    
+    
+}
+
+
+
+
+
+
+/* .titulo2{
+    color: #ffa659;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.2em;
+} */
+
+/* .subtitulo2{
+    color: #ffffff;
+    font-family: "Reno", Sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+} */
+
+.parrafo1{
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 1.5em;
+    letter-spacing: -0.5px;
+}
+b{
+    font-weight: 700;
+}
+
+::placeholder{
+    color: white !important;
+}
+
+.seccion5{
+    height: 100vh;
+}
